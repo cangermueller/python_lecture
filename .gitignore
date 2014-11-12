@@ -33,6 +33,7 @@ dist/*
 sdist/*
 docs/build/*
 /venv*/
+.venv
 MANIFEST
 
 /tmp/
