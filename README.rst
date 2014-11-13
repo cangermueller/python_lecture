@@ -19,7 +19,9 @@ Installation
 
 2. Install `virtualenv <http://virtualenv.readthedocs.org/en/latest/virtualenv.html>`_
 
-3. Install the required packages via ``pip install requirements.txt``
+3. Clone this repository by ``git clone https://github.com/cangermueller/python_lecture.git``
 
-4. Run ``ipython notebook``
+4. Install the required packages by ``pip install requirements.txt``
+
+5. Run ``ipython notebook``
 
