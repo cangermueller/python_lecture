@@ -37,3 +37,4 @@ docs/build/*
 MANIFEST
 
 /tmp/
+logreg/*.png

@@ -15,13 +15,11 @@ Introduction to Python, NumPy, and SymPy.
 Installation
 ------------
 
-1. Install python3.4 on your machine
+1. Install `python3.4 <https://www.python.org/downloads/>`_ on your machine
 
-2. Install `virtualenv <http://virtualenv.readthedocs.org/en/latest/virtualenv.html>`_
+2. Clone this repository by ``git clone https://github.com/cangermueller/python_lecture.git``
 
-3. Clone this repository by ``git clone https://github.com/cangermueller/python_lecture.git``
+3. Install the required packages by ``pip install requirements.txt``
 
-4. Install the required packages by ``pip install requirements.txt``
-
-5. Run ``ipython notebook``
+4. Run ``ipython notebook``
 
